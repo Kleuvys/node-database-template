@@ -1,6 +1,6 @@
 {
     "host": "localhost",
-    "user": "root",
-    "password": "keke321",
+    "user": "usuario do banco mysql",
+    "password": "senha do usuario do banco mysql",
     "database": "groceries"
 }
